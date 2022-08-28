@@ -41,7 +41,8 @@ This	project	covers concepts	related	to	data	analysis.	The	primary objective	of	
 ![alt text](/images/frequency.png)
 
 * At last it was required to display the article with the highest relative frequency with the help of formula f/m. The logic for this problem is also derived in news_processing.py and the snapshot of the output is as below:
-![alt text](/images/final.png)
+![final-2](https://user-images.githubusercontent.com/82283086/187092570-539762ba-8c90-492e-81f1-04e6eac3f388.png)
+
 
 ### References
 -----
